@@ -1,0 +1,16 @@
+{
+    "name": "weblog-1/http-request-test",
+    "authors": [
+        {
+            "name": "croissant",
+            "email": "omelette@pomme.bona.jp"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "6.*",
+        "phpunit/phpunit": "5.*"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
